@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mitch</string>
+    <string name="hello_world">Hello World</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_opened">Select An Item</string>
+    <string name="drawer_closed">Mitch</string>
+</resources>
